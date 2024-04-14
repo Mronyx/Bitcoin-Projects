@@ -1,4 +1,4 @@
-# EVM
+
 # <i>My Web3 projects overview</i>
 
 These are my web3 projects
