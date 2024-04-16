@@ -57,4 +57,15 @@ This is launchpad for artists creators and brands to leverage a community of pio
 - Frontend repo: <a href="https://github.com/cryptodegen84/kongfu-frontend">kongfu-frontend</a>
 - Backend repo: <a href="https://github.com/cryptodegen84/kongfu-backend">kongfu-backend</a>
 
+<h3><u><strong><i>The Royal Kingdom</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/overview/assets/132503531/c626c9e1-b362-4647-bab2-a7bd85e386b3">
+
+This is a project which users can mint and stake their crazy clown nfts for reward. All holders of a Crazy Clowns can stake and receive token per day.
+
+- Visit: <a href="https://theroyalkingdom.xyz/">The Royal Kingdom</a>
+- Frontend repo: <a href="https://github.com/Coin-Degeni/kongfu-frontend">royalkingdom-frontend</a>
+- Backend repo: <a href="https://github.com/Coin-Degeni/kongfu-backend">royalkingdom-backend</a>
 
