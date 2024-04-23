@@ -53,7 +53,7 @@ As you know, I have built in several web3 projects on different networks.
 
 This is launchpad for artists creators and brands to leverage a community of pioneers and early adopters to build its own NFTs.
 
-- Visit: <a href="https://theroyalkingdom.xyz/">Kong Fu</a>
+- Visit: <a href="https://kongfu.megapont.com/">Kong Fu</a>
 - Frontend repo: <a href="https://github.com/cryptodegen84/kongfu-frontend">kongfu-frontend</a>
 - Backend repo: <a href="https://github.com/cryptodegen84/kongfu-backend">kongfu-backend</a>
 
